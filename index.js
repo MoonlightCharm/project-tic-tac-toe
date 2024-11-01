@@ -1,3 +1,4 @@
+// Game logic for console
 const gameBoard = Array(9).fill(null);
 
 function playerSelection() {
